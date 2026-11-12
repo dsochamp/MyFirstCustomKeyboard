@@ -12,3 +12,6 @@ KiCad was used in PCB design to create the schematic and PCB design as well as g
 
 The PCB design includes 50 keys, 54 resistors, a MCP73831-2-OT charging controller, USB-C input and a Raspberry Pi Pico W. Here are some images of the PCB:
 
+![https://cdn.hackclub.com/01a1cee6-6141-7292-a0b5-c23625cba609/Screenshot%202026-11-12%20at%2012.36.00%E2%80%AFpm.png](https://cdn.hackclub.com/01a1cee6-6141-7292-a0b5-c23625cba609/Screenshot%202026-11-12%20at%2012.36.00%E2%80%AFpm.png)
+
+![https://cdn.hackclub.com/01a1cee5-fa38-7b93-b0d0-02048f0df152/Screenshot%202026-11-11%20at%206.43.21%E2%80%AFpm.png](https://cdn.hackclub.com/01a1cee5-fa38-7b93-b0d0-02048f0df152/Screenshot%202026-11-11%20at%206.43.21%E2%80%AFpm.png)
